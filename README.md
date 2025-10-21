@@ -21,10 +21,11 @@ In addition to my preferred tech stack, I have experience working with:
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out to me!
 
-[![GitHub followers](https://img.shields.io/github/followers/IjatAyam?style=social)](https://github.com/IjatAyam)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ijat_Ayam?style=social)](https://twitter.com/Ijat_Ayam)
-[![Linkedin Badge](https://img.shields.io/badge/-ijatayam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ijatayam/)](https://www.linkedin.com/in/ijatayam/)
+[![GitHub followers](https://img.shields.io/github/followers/ijatghapar?style=social)](https://github.com/ijatghapar)
+[![X Follow](https://img.shields.io/twitter/follow/IjatGhapar?style=social)](https://x.com/IjatGhapar)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UClUn7znWiccb86Vh4LKmMQQ?style=social)](https://www.youtube.com/@IjatGhapar)
+[![Linkedin Badge](https://img.shields.io/badge/-ijatghapar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ijatghapar/)](https://www.linkedin.com/in/ijatghapar/)
 
 ---
 
-⭐️ From [IjatAyam](https://github.com/IjatAyam)
+⭐️ From [ijatghapar](https://github.com/ijatghapar)
